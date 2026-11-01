@@ -1,0 +1,12 @@
+openai
+chromadb
+python-dotenv
+pypdf
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+faiss-cpu
+umap-learn
+matplotlib
+numpy

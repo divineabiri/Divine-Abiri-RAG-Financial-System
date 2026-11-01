@@ -1,0 +1,5 @@
+.env
+venv/
+.venv/
+__pycache__/
+chroma_persistent_storage/

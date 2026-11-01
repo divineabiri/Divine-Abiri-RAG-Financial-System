@@ -53,7 +53,7 @@ A full write-up of controlled parameter experiments (chunking, retrieval, genera
 
 ## Author
 
-Divine Abiri — Year 13, Computer Science / Further Maths / Economics.
+Divine Abiri — Year 13, Computer Science /  Maths / Economics.
 Built during and after an AI work experience placement at Lloyds Banking Group.
 
 [GitHub](https://github.com/divineabiri) · [LinkedIn](linkedin.com/in/divineabiri)
